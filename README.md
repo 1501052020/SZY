@@ -1,2 +1,0 @@
-# SZY
-exercise
